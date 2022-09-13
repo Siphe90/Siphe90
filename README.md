@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siphe90
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Fullstack Web Development
+- 👀 I’m interested in software development
+- 🌱 I’m currently studying Full Stack Web Development at Zaio.io
 - 💞️ I’m looking to collaborate on Coding and Software Development
 - 📫 How to reach me, email me at Siphe.ngceba@outlook.com
 
